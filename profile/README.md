@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<!--
+筑波大学附属中学校・電子電脳技術研究会(いわゆるパソコン部)のOrganizationです。
+部員が作成したゲーム・DiscordBotや、ホームページなどのProjectがあります。是非見ててってください！
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[ホームページはこちら](tsukuba-denden.github.io/)
